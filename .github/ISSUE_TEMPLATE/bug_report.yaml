@@ -3,7 +3,7 @@ description: Report incorrect or unexpected behavior.
 title: "[Bug]: "
 labels: ["bug"]
 assignees:
-    - adh319
+    - o9-9
 body:
     - type: markdown
       attributes:

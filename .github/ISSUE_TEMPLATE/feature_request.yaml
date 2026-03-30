@@ -3,7 +3,7 @@ description: "Suggest an idea to this repo"
 title: "[Feature Request]: "
 labels: ["enhancement"]
 assignees:
-    - adh319
+    - o9-9
 body:
     - type: markdown
       attributes:
